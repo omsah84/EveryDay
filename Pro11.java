@@ -1,21 +1,41 @@
 import java.util.Scanner;
 
 public class Pro11 {
-    public static int grat(int a, int b) {
-        if (a > b) {
-            return a;
-        } else {
-            return b;
+    public static void fun() {
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+        int cout = 0;
+        int zeroCo = 0;
+
+        if (n > 0) {
+            cout += 1;
+
         }
+        else {
+            zeroCo += 1;
+        }
+
+        System.out.println(cout);
+        System.out.println(zeroCo);
+        
+
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = sc.nextInt();
+        while(true){
+            System.out.println("Enter yes or No.");
 
-        int st = grat(a, b);
-        System.out.println(st);
+            Scanner sc = new Scanner(System.in);
+            String e = sc.next();
+    
+            if (e == "Yes") {
+                fun();
+            }
+        }
+       
+
+        
     }
     
     
