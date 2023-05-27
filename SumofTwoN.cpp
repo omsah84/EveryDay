@@ -9,6 +9,5 @@ int main()
 
     int a, b;
     cin >> a >> b;
-    cout << endl;
     cout << a + b;
 }

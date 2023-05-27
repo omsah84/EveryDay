@@ -3,5 +3,7 @@
     "files.associations": {
         "*.rmd": "markdown",
         "ostream": "cpp"
-    }
+    },
+    "editor.fontSize": 25,
+    "screencastMode.fontSize": 20
 }
