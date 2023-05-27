@@ -1,6 +1,6 @@
-public static void printStack(Stack<Integer> s) {
-    //     while (!s.isEmpty()) {
-    //         System.out.println(s.peek());
-    //         s.peek();
-    //     }
-    // }
+ // for (int i = a; i <= ul; i += a) {
+        //     System.out.println(i);
+        //     if (i == b) {
+        //         System.out.println(i);
+        //         break;
+        //     }
