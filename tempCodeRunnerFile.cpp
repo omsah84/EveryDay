@@ -1,3 +1,3 @@
-nt sum(int num1, int num2){
-//     return num1 + num2;
-// }
+ for (int i = 0; i < zero;i++){
+        arr[i] = 0;
+    }
