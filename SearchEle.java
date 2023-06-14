@@ -23,8 +23,6 @@ public class SearchEle {
         int index = searchMethod(arr, searchele);
         System.out.println("The index of " + searchele + " is :" + index);
 
-        
-
 
     }
 }

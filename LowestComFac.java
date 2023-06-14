@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+11
 public class LowestComFac {
 
     //function of gcd
