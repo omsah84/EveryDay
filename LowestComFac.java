@@ -27,7 +27,7 @@ public class LowestComFac {
     public static int lcm(int num1 , int num2) {
 
         int ans = (num1*num2)/gcd(num1, num2);
-        return ans;
+        return Math.abs(ans);
         
     }
     public static void main(String[] args) {
