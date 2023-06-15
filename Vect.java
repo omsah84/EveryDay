@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Vector;
 
 public class Vect {
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         int arr[][] = {
                 { 1, 2, 3, 4, 5 },
                 { 4, 2, 5, 6, 7 },

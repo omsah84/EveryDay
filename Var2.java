@@ -1,5 +1,5 @@
 public class Var2 {
-    public static void main(String[] arr) {
+    public static void main(String12[] arr) {
         //variable
         int a = 30;
         int b = 34;

@@ -1,6 +1,6 @@
 public class StaticMethod {
     
-    public static void main(String[] arr){
+    public static void main(String12[] arr){
 
         
         StaticMethod ob = new StaticMethod();

@@ -9,7 +9,7 @@ public class Pro9 {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
 

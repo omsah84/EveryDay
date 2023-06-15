@@ -11,7 +11,7 @@ public class Pro4 {
         return mul;
     }
 
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
 
         Scanner sc = new Scanner(System.in);
 

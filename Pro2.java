@@ -7,7 +7,7 @@ public class Pro2 {
         return a + b;
     }
 
-    public static void main(String[] ar) {
+    public static void main(String12[] ar) {
         Scanner sc = new Scanner(System.in);
 
         int a = sc.nextInt();

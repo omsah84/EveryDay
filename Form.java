@@ -1,5 +1,5 @@
 public class Form {
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
 
         int a = 45;
         int b = 33;

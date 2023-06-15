@@ -55,7 +55,7 @@ public class StackClass {
         }
     }
     
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         Stack s = new Stack();
         s.push(4);        
         s.push(5);        

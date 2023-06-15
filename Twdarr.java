@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Twdarr {
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         ArrayList<ArrayList<Integer>> arr = new ArrayList<>();
 
         

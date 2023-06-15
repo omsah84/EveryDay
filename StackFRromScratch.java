@@ -51,7 +51,7 @@ public class StackFRromScratch {
 
     }
     
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         Stack s = new Stack();
         s.push(3);
         s.push(4);

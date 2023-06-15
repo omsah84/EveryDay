@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class PrintPrime {
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         Scanner sc = new Scanner(System.in);
         while (true) {
             System.out.println("Enter the first starting number..");

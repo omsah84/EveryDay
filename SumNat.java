@@ -10,7 +10,7 @@ public class SumNat {
         return sumNat(num - 1, sum);
         
     }
-    public static void main(String[] arr) {
+    public static void main(String12[] arr) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         sc.close();

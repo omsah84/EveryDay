@@ -15,7 +15,7 @@ public class SearchEle {
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         int arr[] = {2,3,4,5,3};
 
         int searchele = 4;

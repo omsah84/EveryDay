@@ -25,14 +25,14 @@
 // }
 
 public class BinaryToDecimal {
-    public static void main(String[] args) {
-        String binary = "101011"; // Replace with your binary number
+    public static void main(String12[] args) {
+        String12 binary = "101011"; // Replace with your binary number
 
         int decimal = binaryToDecimal(binary);
         System.out.println("Decimal: " + decimal);
     }
 
-    public static int binaryToDecimal(String binary) {
+    public static int binaryToDecimal(String12 binary) {
         int decimal = 0;
         int length = binary.length();
         

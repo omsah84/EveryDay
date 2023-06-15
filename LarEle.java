@@ -1,5 +1,5 @@
 public class LarEle{
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         int[] arr = { 0, 1, 3, 4, 0 ,8};
         int larg;
         int smal;

@@ -1,7 +1,7 @@
 import java.util.*;
 //input
 public class input3 {
-    public static void main(String[] ar) {
+    public static void main(String12[] ar) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();

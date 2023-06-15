@@ -1,5 +1,5 @@
 public class num {
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         num o = new num();
         int num = o.countPrimesInRange(700, 725);
         System.out.println(num);

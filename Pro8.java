@@ -6,7 +6,7 @@ public class Pro8 {
         return 3.14f * r * r;
     }
 
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         Scanner sc = new Scanner(System.in);
         int r = sc.nextInt();
 

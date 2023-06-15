@@ -11,7 +11,7 @@ public class Arraytrv {
         printArr(arr,i+1,arrlist);
         arrlist.add(arr[i]); 
     }
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         
         int arr[] = {1,2,2,3,4};
         //  int i =0;

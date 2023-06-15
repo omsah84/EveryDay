@@ -21,7 +21,7 @@ public class gcd {
         return ans;
     }
 
-    public static void main(String[] arr) {
+    public static void main(String12[] arr) {
         Scanner sc = new Scanner(System.in);
         // input
         System.out.println("Enter the first number.");

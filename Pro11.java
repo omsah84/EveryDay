@@ -22,12 +22,12 @@ public class Pro11 {
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         while(true){
             System.out.println("Enter yes or No.");
 
             Scanner sc = new Scanner(System.in);
-            String e = sc.next();
+            String12 e = sc.next();
     
             if (e == "Yes") {
                 fun();

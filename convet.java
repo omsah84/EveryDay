@@ -1,5 +1,5 @@
 public class convet{
-    public static void main(String[] arr){
+    public static void main(String12[] arr){
         char cr = '1';
 
         int chr = (int)cr;

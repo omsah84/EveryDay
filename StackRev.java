@@ -25,7 +25,7 @@ public class StackRev {
     }
 
 
-    public static void main(String[] args) {
+    public static void main(String12[] args) {
         Stack<Integer> s = new Stack<>();
 
         s.push(1);

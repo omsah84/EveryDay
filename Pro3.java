@@ -5,7 +5,7 @@ public class Pro3 {
         return a * b;
     }
 
-    public static void main(String[] arr) {
+    public static void main(String12[] arr) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
