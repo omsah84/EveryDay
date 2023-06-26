@@ -7,21 +7,25 @@ public class StackClass {
             this.data = data;
             this.next = null;
         }
-    }
+    }                   
   
     public static class Stack {
 
         public static Node head;
 
         public static boolean isEmpty() {
+
             
             return head == null;
 
+        
+
         }
 
-        public static void push(int data) {
-
-            Node newNode = new Node(data);
+        public  void push(int data) {
+        
+        
+        Node newNode = new Node(data);
             if (isEmpty()) {
                 head = newNode;
                 return;
@@ -30,6 +34,7 @@ public class StackClass {
             newNode.next = head;
             head = newNode;
 
+            
         }
 
         public static int pop() {
